@@ -40,4 +40,4 @@ jobs:
           context: .
           file: ./Dockerfile
           push: true
-        ${{ secrets.DOCKER_USERNAME }}/my-react-app:latest
+          tags: taharka200050/hello:latest
