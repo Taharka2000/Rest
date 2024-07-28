@@ -40,4 +40,4 @@ jobs:
           context: .
           file: ./Dockerfile
           push: true
-          tags: taharka200050/hello:latest
+          tags: ${{ secrets.DOCKER_USERNAME }}/terrform:latest
