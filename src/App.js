@@ -6,7 +6,7 @@ function App() {
       <h1> Hello world </h1>
       <h2>hello</h2>
       heloo
-      <h4>sammm</h4>
+      <h4>yuuuttytu</h4>
       <p>Lorem ipsum dolor sit amet consecnsectetur exceptur rerum itaque vitae perspiciatis commodi distinctio doloremque voluptas id! Maxime!</p>
     </div>
   );
